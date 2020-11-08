@@ -995,15 +995,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tertiary\\.nuget\\packages\\": {}
+    "C:\\Users\\angch\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "SwitchActivity",
       "projectName": "SwitchActivity",
-      "projectPath": "C:\\Users\\Tertiary\\Documents\\UiPath\\Topic 3\\Switch Demo\\.local",
-      "packagesPath": "C:\\Users\\Tertiary\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tertiary\\Documents\\UiPath\\Topic 3\\Switch Demo\\.local"
+      "projectPath": "C:\\Users\\angch\\OneDrive\\Desktop\\WSQ-RPA\\Topic 2\\Switch Demo\\.local",
+      "packagesPath": "C:\\Users\\angch\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\angch\\OneDrive\\Desktop\\WSQ-RPA\\Topic 2\\Switch Demo\\.local"
     },
     "frameworks": {
       "net461": {

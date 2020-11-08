@@ -1726,15 +1726,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tertiary\\.nuget\\packages\\": {}
+    "C:\\Users\\angch\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Assign and Delay",
       "projectName": "Assign and Delay",
-      "projectPath": "C:\\Users\\Tertiary\\Documents\\UiPath\\Assign and Delay\\.local",
-      "packagesPath": "C:\\Users\\Tertiary\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tertiary\\Documents\\UiPath\\Assign and Delay\\.local"
+      "projectPath": "C:\\Users\\angch\\Downloads\\WSQ-RPA-Course-main\\WSQ-RPA-Course-main\\Topic 2\\Assign and Delay Demo\\.local",
+      "packagesPath": "C:\\Users\\angch\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\angch\\Downloads\\WSQ-RPA-Course-main\\WSQ-RPA-Course-main\\Topic 2\\Assign and Delay Demo\\.local"
     },
     "frameworks": {
       "net461": {

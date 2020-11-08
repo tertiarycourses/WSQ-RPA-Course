@@ -1505,8 +1505,6 @@
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-        "AllDependencies.json",
-        "UiAutomationActivities.nuget.props",
         "build/ActiproSoftware.DataGrid.Contrib.Wpf.dll",
         "build/ActiproSoftware.Docking.Wpf.dll",
         "build/ActiproSoftware.Editors.Wpf.dll",
@@ -1643,7 +1641,6 @@
         "lib/net461/zh-CN/UiPath.UIAutomation.Activities.Design.resources.dll",
         "lib/net461/zh-CN/UiPath.UiAutomation.Activities.resources.dll",
         "lib/net461/zh-CN/UiPath.Wizards.resources.dll",
-        "nuget.cache",
         "uipath.uiautomation.activities.20.4.1.nupkg.sha512",
         "uipath.uiautomation.activities.nuspec"
       ]
@@ -1726,15 +1723,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Tertiary\\.nuget\\packages\\": {}
+    "C:\\Users\\angch\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "Do While",
       "projectName": "Do While",
-      "projectPath": "C:\\Users\\Tertiary\\Documents\\UiPath\\Topic 3\\Do While Demo\\.local",
-      "packagesPath": "C:\\Users\\Tertiary\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tertiary\\Documents\\UiPath\\Topic 3\\Do While Demo\\.local"
+      "projectPath": "C:\\Users\\angch\\OneDrive\\Desktop\\WSQ-RPA\\Topic 2\\Do While Demo\\.local",
+      "packagesPath": "C:\\Users\\angch\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\angch\\OneDrive\\Desktop\\WSQ-RPA\\Topic 2\\Do While Demo\\.local"
     },
     "frameworks": {
       "net461": {

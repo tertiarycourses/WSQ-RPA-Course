@@ -1729,9 +1729,9 @@
     "restore": {
       "projectUniqueName": "Remote Robot",
       "projectName": "Remote Robot",
-      "projectPath": "C:\\Users\\angch\\OneDrive\\Documents\\UiPath\\Remote Robot\\.local",
+      "projectPath": "C:\\Users\\angch\\OneDrive\\Desktop\\WSQ-RPA\\Topic 5\\Remote Robot\\.local",
       "packagesPath": "C:\\Users\\angch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\angch\\OneDrive\\Documents\\UiPath\\Remote Robot\\.local"
+      "outputPath": "C:\\Users\\angch\\OneDrive\\Desktop\\WSQ-RPA\\Topic 5\\Remote Robot\\.local"
     },
     "frameworks": {
       "net461": {
